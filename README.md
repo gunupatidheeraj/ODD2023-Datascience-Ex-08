@@ -18,8 +18,8 @@ Data visualization is the graphical representation of information and data. By u
 
 # PROGRAM:
 ```
-Developed By: chadalawada jaswanth
-Reg No: 212221040030
+Developed By: gunupati dheeraj
+Reg No: 212221040050
 ```
 ### READING THE GIVEN FILES
 ```python
